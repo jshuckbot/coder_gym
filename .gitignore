@@ -252,3 +252,5 @@ fabric.properties
 .fleet/
 media/
 static/
+
+.python-version
