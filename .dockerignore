@@ -1,0 +1,9 @@
+Dockerfile
+docker-compose.yml
+Makefile
+.fleet/
+*.md
+LICENSE
+.git
+**cache**
+.gitignore
