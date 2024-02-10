@@ -1,12 +1,9 @@
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 
-SECRET_KEY = "env('SECRET_KEY')"
-
-# SECURITY WARNING: don't run with debug turned on in production!
-# DEBUG = True
+SECRET_KEY = ""
 
 ALLOWED_HOSTS = []
 
